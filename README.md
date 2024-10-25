@@ -8,6 +8,8 @@ This project is a **React.js** application for generating tokens with customizab
 - **Customizable Tokens**: Users can define the number of tokens, token prefixes, and the number of tokens per row.
 - **Responsive UI**: The layout is responsive and adjusts seamlessly for various screen sizes.
 - **Clear and Generate Actions**: Users can generate tokens and clear the form to start over.
+- **Restrict users**: To generate token if tokens per row is greater than total number of tokens or if input fields are empty
+
 
 ## Project Structure
 
@@ -53,4 +55,3 @@ The build folder will contain optimized static files ready for deployment.
 ### Material-UI
 ### VS Code
 ### Github
-### Netlify
