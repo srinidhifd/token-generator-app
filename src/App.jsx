@@ -17,7 +17,7 @@ const App = () => {
   };
 
   const containerStyle = {
-    backgroundImage: `url('/src/assets/bg.jpg')`,
+    backgroundImage: `url('./bg.jpg')`,
     backgroundSize: 'cover',
     backgroundPosition: 'center',
     width: '100vw', // Full width of the viewport
